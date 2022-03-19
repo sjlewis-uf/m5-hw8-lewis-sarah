@@ -8,4 +8,55 @@
 
 body {
   font-family: 'Bebas Neue', Impact, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  background-color: #6003C3;
+  color: #FFFFFF;
+  font-size: 4em;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10%;
+  text-align: center;
+  width: 100%;
+}
+
+p, .score {
+  color: #6003C3;
+  font-size: 2em;
+  text-align: center;
+}
+
+.boxes {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.box {
+  color: #6003C3;
+  font-size: 3em;
+  display: inline-block;
+  border: .5em solid #6003C3;
+  border-radius: 1em;
+  width: 4em;
+  padding: 2em;
+  margin: 1em;
+  text-align: center;
+}
+
+#box-1 {
+  background-color: #FCFF00;
+}
+
+#box-2 {
+  background-color: #57FFC9;
+}
+
+#box-3 {
+  background-color: #A5FF01;
 }
