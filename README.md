@@ -1,3 +1,8 @@
+The part I am struggling most with is putting the method into practice and understanding when certain code should be used and how it all relates to create the end result.
+
+I have been primarily using the lectures as material and also got some guidance from my group members who were also willing to point me to specific resources within the lectures or Code Academy that were helpful for them on the assignment as well.
+
+
 # Box Challenge
 
 ![laptop mockup of the box challenge assignment](./mockups/laptop-1024x768.png)
